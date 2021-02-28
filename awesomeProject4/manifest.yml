@@ -1,0 +1,5 @@
+applications:
+  - name: nitzansa-challenge-app
+    instances: 1
+    buildpacks:
+      - go_buildpack
